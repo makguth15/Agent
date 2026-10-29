@@ -9,6 +9,10 @@ You are running the daily networking digest for the person described in `profile
    Good sources: company leadership/team pages, press releases, news about new hires or promotions,
    conference speaker lists, podcasts, company blogs, public LinkedIn profiles that appear in search results,
    and open job postings that name a hiring manager or team.
+   To find director-level people: search for job postings at target companies and work out who the role reports to;
+   search titles directly (e.g. "Director of Product Marketing" Brooks, "Head of Brand Marketing" On Running San Francisco);
+   look at speaker lists for marketing/product events (e.g. Outdoor Retailer, The Running Event, HLTH, Fitt Insider events);
+   and look at news about promotions or new marketing hires. Follow the daily mix in profile.md.
 3. Verify each person from at least one public source dated within the last ~12 months, so their current role
    is likely accurate. Skip anyone you can't verify. Never invent people, titles or email addresses.
    Do not log in to LinkedIn or scrape it; only use what is public in search results and public pages.

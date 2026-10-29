@@ -30,11 +30,17 @@ domain knowledge (physiology, health, athletes) or that hire career-changers are
   where they could work in person. Remote-friendly companies are fine but rank lower.
 
 ## Who to suggest
-- Focus on **hiring managers and people with hiring influence**: directors/heads/VPs of product marketing,
-  marketing, brand, product, GTM; team leads who hire PMs or marketers; talent/recruiting leads at target companies.
+- Focus on **director-level hiring managers**: the people who would directly manage or hire for
+  the target roles. Examples: Director / Senior Director / Head of Product Marketing, Marketing, Brand Marketing,
+  Athlete or Sports Marketing, Consumer Marketing, Growth, Product, or Program Management; Senior Managers who
+  lead a team; and recruiters or talent partners who hire for marketing and product at target companies.
+- **Daily mix:** at least 3 of the 5 people should be director-level or senior-manager hiring managers or recruiters.
+  At most 1 per day should be a C-suite executive or founder (CEO, CMO, etc.), and only when there's a clear
+  reason, such as a new hire building a team or a small company where the founder hires directly.
 - Not peers at their own level.
 - Bonus signals: CU Boulder alumni, former DaVita or healthcare people who moved into consumer/fitness,
-  people who post or speak about hiring career-changers, people at companies with open relevant roles right now.
+  people who post or speak about hiring career-changers, people at companies with open relevant roles right now
+  (especially the person a job posting reports to).
 
 ## Daily settings
 - 5 people per day, every day.
