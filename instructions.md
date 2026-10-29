@@ -34,3 +34,4 @@ You are running the daily networking digest for the person described in `profile
 - Many sites can't be fetched directly from this environment; rely mainly on web search results.
 - If a promising person can only be verified from an older source, you may include at most one per day,
   clearly flagged "verify the role is current first".
+- Refer to suggested people by name, not by gendered pronouns, and use "Why this person:" as the label.
