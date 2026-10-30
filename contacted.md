@@ -14,3 +14,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-10-29 | Claire Wood | VP, Footwear Product Strategy | Brooks Running |
 | 2026-10-29 | Allie Tsavdarides | VP, North America Marketing | HOKA |
 | 2026-10-29 | Louisa Wee | Chief Marketing Officer | Strava |
+| 2026-10-30 | Ian Ballentine | Senior Director, Marketing | Sports Basement |
+| 2026-10-30 | Lauri Abrahmsen | Race Director | The San Francisco Marathon |
+| 2026-10-30 | Emily Seelenfreund | Executive Director | BORP |
+| 2026-10-30 | Marissa Lucas | SVP, PR & Partnerships | Bay Club |
+| 2026-10-30 | Erika Everett | CMO and interim brand lead | Athleta |

@@ -31,7 +31,11 @@ You are running the daily networking digest for the person described in `profile
 9. End your final reply with the full digest so it appears in the notification/summary.
 
 ## Notes
-- Many sites can't be fetched directly from this environment; rely mainly on web search results.
+- Many sites can't be fetched directly from this environment; rely on web search results (use "extended" mode).
+  A search result summary that cites a dated public source counts as verification.
+- Always deliver 5 people. Keep searching (expect 10-20 searches) until you have 5; don't stop early.
+  If director names are hard to find, use job postings to identify the hiring team and fall back to other
+  Bay Area people with hiring influence (VPs, race directors, nonprofit leaders, club/gym leaders).
 - If a promising person can only be verified from an older source, you may include at most one per day,
   clearly flagged "verify the role is current first".
 - Refer to suggested people by name, not by gendered pronouns, and use "Why this person:" as the label.
