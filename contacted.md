@@ -19,3 +19,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-10-30 | Emily Seelenfreund | Executive Director | BORP |
 | 2026-10-30 | Marissa Lucas | SVP, PR & Partnerships | Bay Club |
 | 2026-10-30 | Erika Everett | CMO and interim brand lead | Athleta |
+| 2026-10-31 | Evelina Jarbin | Senior Director, Strava for Business | Strava |
+| 2026-10-31 | Connie Chan Wang | SVP, Marketing & Communications | Headspace |
+| 2026-10-31 | Kyle Meyers | Race Director / CEO, Silverback | Bay to Breakers |
+| 2026-10-31 | David Solo | President & CEO | Special Olympics Northern California |
+| 2026-10-31 | Alina Pimentel | Director, Product Marketing | Hinge Health |
