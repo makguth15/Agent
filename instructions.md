@@ -39,3 +39,8 @@ You are running the daily networking digest for the person described in `profile
 - If a promising person can only be verified from an older source, you may include at most one per day,
   clearly flagged "verify the role is current first".
 - Refer to suggested people by name, not by gendered pronouns, and use "Why this person:" as the label.
+
+## Email delivery
+After pushing, email the digest with the Gmail connector (send_message) to makenzie.guth@gmail.com:
+- Subject: "Your networking digest for <Mon D>: 5 people to reach out to"
+- htmlBody: the output of `python3 tools/md2html.py digests/YYYY-MM-DD.md`
