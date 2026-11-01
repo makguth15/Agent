@@ -29,3 +29,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-01 | Curtis Hanlon | EVP, Marketing | Bay FC |
 | 2026-11-01 | Heather Bellgreen | Director of Marketing | Touchstone Climbing |
 | 2026-11-01 | Jess Smith | President | Golden State Valkyries |
+| 2026-11-01 | Nicole Maue | Director of Marketing & PR | Fitness Formula Clubs |
+| 2026-11-01 | Carey Pinkowski | Executive Race Director | Bank of America Chicago Marathon |
+| 2026-11-01 | Pete Beale-DelVecchio | President & CEO | Special Olympics Illinois |
+| 2026-11-01 | Amanda Chin | SVP, Marketing | Golden State Warriors |
+| 2026-11-01 | Julia Harbaugh | Chapter Lead, SF Bay Area | Achilles International |
