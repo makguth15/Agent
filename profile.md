@@ -26,11 +26,13 @@ domain knowledge (physiology, health, athletes) or that hire career-changers are
    adaptive gear brands, Special Olympics, Move United, BORP in Berkeley)
 
 ## Location
-- Moving to San Francisco with their fiance and wants to work in person there.
-- **At least 4 of the 5 people each day must be based in the SF Bay Area** (San Francisco, Oakland, Berkeley,
-  Marin, the Peninsula, South Bay). Confirm location from a public source (job posting location, bio,
-  company office, event appearance). The 5th can be elsewhere only if they hire for SF-based roles or the company is a
-  top target.
+- Two target cities: **San Francisco Bay Area** (moving there with their fiance) and **Chicago**.
+  Wants to work in person in one of them.
+- **Daily location mix: 2-3 SF Bay Area people and 2-3 Chicago-area people, at least 4 of the 5 in one of
+  the two cities.** SF Bay Area = San Francisco, Oakland, Berkeley, Marin, the Peninsula, South Bay;
+  Chicago = city and suburbs (e.g. Evanston, Oak Brook). Confirm location from a public source (job posting location,
+  bio, company office, event appearance). The 5th can be elsewhere only if they hire for roles in SF or Chicago or
+  the company is a top target. Label each person's city in the digest.
 - Bay Area companies to mine first (target industries with SF/Bay Area HQs or major offices):
   - Athlete brands, apparel & retail: Athleta (Gap Inc., SF), Allbirds (SF), Gap Inc./Old Navy activewear (SF),
     Rhone and Vuori Bay Area stores/teams, Sports Basement (SF), Fleet Feet SF, On and Nike SF retail/marketing teams,
@@ -43,6 +45,19 @@ domain knowledge (physiology, health, athletes) or that hire career-changers are
     Spring Health, Omada (SF), Lyra Health (Burlingame), Headspace (SF), Maven Clinic, UCSF Health innovation
   - Adaptive sports: BORP (Berkeley), Bay Area Outreach & Recreation Program, Challenged Athletes Foundation SF events,
     Special Olympics Northern California, Achilles International Bay Area chapter
+- Chicago organizations to mine first:
+  - Running & athlete brands/retail: Nike Chicago (Michigan Ave store and regional marketing), Lululemon Chicago,
+    Fleet Feet Chicago, Universal Sole, Bank of America Chicago Marathon (Event Strategies), Chicago Area Runners
+    Association (CARA), Shamrock Shuffle, Chicago Half Marathon organizers
+  - Fitness & gym management: Fitness Formula Clubs (FFC), Shred415, Equinox Chicago, Orangetheory and F45 Chicago
+    franchise groups, Life Time Chicago clubs, Chicago Athletic Clubs, Xponential brand franchisees
+  - Healthcare innovation: Oak Street Health, Shirley Ryan AbilityLab (rehab + adaptive sports), Northwestern Medicine,
+    Rush, Tempus, Outcome Health, Cleveland Avenue-backed health startups, MATTER healthtech incubator
+  - Adaptive sports & special needs: Special Olympics Illinois / Special Olympics Chicago (Special Olympics was
+    founded in Chicago), Shirley Ryan AbilityLab Adaptive Sports, Great Lakes Adaptive Sports Association (GLASA),
+    Chicago Park District special recreation
+  - Chicago sources: Crain's Chicago Business "Who's News" / 40 Under 40, Built In Chicago job posts (who the role
+    reports to), Chicago Inno, MATTER and 1871 events, CU Boulder alumni in Chicago.
 - Good SF-specific sources: Built In SF job posts (who the role reports to), SF Business Times "People on the Move",
   SF meetups and events (Product Marketing Alliance SF, SF Running Company/race organizers like the SF Marathon,
   Bay to Breakers), and Bay Area alumni groups for CU Boulder.
@@ -52,7 +67,7 @@ domain knowledge (physiology, health, athletes) or that hire career-changers are
   the target roles. Examples: Director / Senior Director / Head of Product Marketing, Marketing, Brand Marketing,
   Athlete or Sports Marketing, Consumer Marketing, Growth, Product, or Program Management; Senior Managers who
   lead a team; and recruiters or talent partners who hire for marketing and product at target companies.
-- **Daily mix:** at least 4 of the 5 people must be SF Bay Area-based (see Location), and at least 3 of the 5 people should be director-level or senior-manager hiring managers or recruiters.
+- **Daily mix:** 2-3 SF Bay Area and 2-3 Chicago people, at least 4 of 5 in one of those cities (see Location), and at least 3 of the 5 people should be director-level or senior-manager hiring managers or recruiters.
   At most 1 per day should be a C-suite executive or founder (CEO, CMO, etc.), and only when there's a clear
   reason, such as a new hire building a team or a small company where the founder hires directly.
 - Not peers at their own level.
