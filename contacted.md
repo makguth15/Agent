@@ -24,3 +24,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-10-31 | Kyle Meyers | Race Director / CEO, Silverback | Bay to Breakers |
 | 2026-10-31 | David Solo | President & CEO | Special Olympics Northern California |
 | 2026-10-31 | Alina Pimentel | Director, Product Marketing | Hinge Health |
+| 2026-11-01 | Andrea Fernandes | VP, Marketing | Golden State Valkyries |
+| 2026-11-01 | Katie Stockberger | VP, Partnerships | Golden State Valkyries |
+| 2026-11-01 | Curtis Hanlon | EVP, Marketing | Bay FC |
+| 2026-11-01 | Heather Bellgreen | Director of Marketing | Touchstone Climbing |
+| 2026-11-01 | Jess Smith | President | Golden State Valkyries |
