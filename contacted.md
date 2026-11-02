@@ -34,3 +34,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-01 | Pete Beale-DelVecchio | President & CEO | Special Olympics Illinois |
 | 2026-11-01 | Amanda Chin | SVP, Marketing | Golden State Warriors |
 | 2026-11-01 | Julia Harbaugh | Chapter Lead, SF Bay Area | Achilles International |
+| 2026-11-02 | Alison Miller | VP, Marketing | Chicago Cubs |
+| 2026-11-02 | Beth DeRosier | Executive Director | Great Lakes Adaptive Sports Association |
+| 2026-11-02 | Steven Collens | CEO | MATTER |
+| 2026-11-02 | Kevin Hilton | EVP, Corporate Partnerships | San Francisco 49ers |
+| 2026-11-02 | Hilary Awad | VP, Partnership Sales | Bay FC |
