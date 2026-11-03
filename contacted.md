@@ -39,3 +39,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-02 | Steven Collens | CEO | MATTER |
 | 2026-11-02 | Kevin Hilton | EVP, Corporate Partnerships | San Francisco 49ers |
 | 2026-11-02 | Hilary Awad | VP, Partnership Sales | Bay FC |
+| 2026-11-03 | Troy Macfarland | Director of Marketing | FITNESS SF |
+| 2026-11-03 | Kay Bradley | Chief Marketing Officer | Chicago Stars FC |
+| 2026-11-03 | Kelli Teno-Manalli | VP, Head of Communications | Tempus |
+| 2026-11-03 | Pete Hassen | Senior Executive Director of Marketing | Chicago Blackhawks |
+| 2026-11-03 | Rachel Heit | Chief Marketing Officer | San Francisco Giants |
