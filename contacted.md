@@ -44,3 +44,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-03 | Kelli Teno-Manalli | VP, Head of Communications | Tempus |
 | 2026-11-03 | Pete Hassen | Senior Executive Director of Marketing | Chicago Blackhawks |
 | 2026-11-03 | Rachel Heit | Chief Marketing Officer | San Francisco Giants |
+| 2026-11-04 | Ryan Nagdeman | AVP, Marketing & Communications | Rush University System for Health |
+| 2026-11-04 | Olivia Garza | Founder & Owner | REV'D Chicago |
+| 2026-11-04 | Mark Modesto | VP & Chief Marketing Executive | Northwestern Medicine |
+| 2026-11-04 | Edreece Arghandiwal | Co-founder & CMO | Oakland Roots & Soul SC |
+| 2026-11-04 | Karen Gonzalez | Director, Community Engagement & Experience | Oakland Roots & Soul SC |
