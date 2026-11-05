@@ -49,3 +49,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-04 | Mark Modesto | VP & Chief Marketing Executive | Northwestern Medicine |
 | 2026-11-04 | Edreece Arghandiwal | Co-founder & CMO | Oakland Roots & Soul SC |
 | 2026-11-04 | Karen Gonzalez | Director, Community Engagement & Experience | Oakland Roots & Soul SC |
+| 2026-11-05 | Calvin Chin | VP, Product Marketing | Hinge Health |
+| 2026-11-05 | Kat Nakada | Founder | LFBA Studios |
+| 2026-11-05 | Sarah Tobin | Founder | Marina Run Club |
+| 2026-11-05 | Alex Teodosi | VP, Corporate Partnerships | Chicago Sky |
+| 2026-11-05 | Dane McCarthy | Founder | Club Athletic |
