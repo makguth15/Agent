@@ -54,3 +54,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-05 | Sarah Tobin | Founder | Marina Run Club |
 | 2026-11-05 | Alex Teodosi | VP, Corporate Partnerships | Chicago Sky |
 | 2026-11-05 | Dane McCarthy | Founder | Club Athletic |
+| 2026-11-06 | Julia Cheney | Sports & Brand Partnerships lead | Oura |
+| 2026-11-06 | Justin Breton | VP, Development (Fashiontainment) | Gap Inc. |
+| 2026-11-06 | Michiko Tanabe | SVP & Chief Marketing Officer | Stanford Health Care |
+| 2026-11-06 | Sònia Méndez | Senior Director, Global Strategic Marketing | Life Fitness |
+| 2026-11-06 | Andrew Mahadevan | Chief Commercial Officer | Life Fitness |
