@@ -59,3 +59,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-06 | Michiko Tanabe | SVP & Chief Marketing Officer | Stanford Health Care |
 | 2026-11-06 | Sònia Méndez | Senior Director, Global Strategic Marketing | Life Fitness |
 | 2026-11-06 | Andrew Mahadevan | Chief Commercial Officer | Life Fitness |
+| 2026-11-07 | Julia Tesoro Hull | VP, Partnership Marketing & Strategy | Chicago Fire FC |
+| 2026-11-07 | Dan Moriarty | Chief Marketing Officer | Chicago Fire FC |
+| 2026-11-07 | Samuel Chu, MD | Program Director, Sports Medicine Fellowship | Shirley Ryan AbilityLab |
+| 2026-11-07 | Valerie Monet | Senior Director, Marketing Operations & Analytics | Sutter Health |
+| 2026-11-07 | Jacon Chun | Lead Product Marketing Manager, Healthcare | Tonal |
