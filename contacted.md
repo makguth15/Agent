@@ -64,3 +64,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-07 | Samuel Chu, MD | Program Director, Sports Medicine Fellowship | Shirley Ryan AbilityLab |
 | 2026-11-07 | Valerie Monet | Senior Director, Marketing Operations & Analytics | Sutter Health |
 | 2026-11-07 | Jacon Chun | Lead Product Marketing Manager, Healthcare | Tonal |
+| 2026-11-08 | Megan Malone | Director, Corporate Partnerships | Chicago Bears |
+| 2026-11-08 | Brooks Boyer | Chief Revenue & Marketing Officer | Chicago White Sox |
+| 2026-11-08 | Michelle La Sala | Race Director & President | Blistering Pace Race Management |
+| 2026-11-08 | Jerry Flanagan | President | Pamakid Runners |
+| 2026-11-08 | Peter Vercio | Sports Marketing & Events Director | Skratch Labs |
