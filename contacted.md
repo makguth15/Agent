@@ -69,3 +69,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-08 | Michelle La Sala | Race Director & President | Blistering Pace Race Management |
 | 2026-11-08 | Jerry Flanagan | President | Pamakid Runners |
 | 2026-11-08 | Peter Vercio | Sports Marketing & Events Director | Skratch Labs |
+| 2026-11-09 | Tim Bradley | Executive Director | Chicago Area Runners Association |
+| 2026-11-09 | Lisa Nucci | Chief Marketing Officer | Choose Chicago |
+| 2026-11-09 | Monte Keleher | Owner | A Runner's Mind |
+| 2026-11-09 | Kyle Ballard | Co-owner | A Runner's Mind Productions |
+| 2026-11-09 | Anurag Wadehra | SVP, Marketing | Omada Health |
