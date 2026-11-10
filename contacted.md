@@ -74,3 +74,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-09 | Monte Keleher | Owner | A Runner's Mind |
 | 2026-11-09 | Kyle Ballard | Co-owner | A Runner's Mind Productions |
 | 2026-11-09 | Anurag Wadehra | SVP, Marketing | Omada Health |
+| 2026-11-10 | Eva Gordon | NorCal Senior Programs Manager | Challenged Athletes Foundation |
+| 2026-11-10 | Susan Butler | NorCal Senior Director of Development | Challenged Athletes Foundation |
+| 2026-11-10 | Michael Loesel | VP, Marketing | Hinge Health |
+| 2026-11-10 | Sabrina Alsaffar | Director, Game Presentation & Marketing | Chicago Stars FC |
+| 2026-11-10 | Karen Leetzow | President | Chicago Stars FC |
