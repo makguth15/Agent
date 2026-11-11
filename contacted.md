@@ -79,3 +79,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-10 | Michael Loesel | VP, Marketing | Hinge Health |
 | 2026-11-10 | Sabrina Alsaffar | Director, Game Presentation & Marketing | Chicago Stars FC |
 | 2026-11-10 | Karen Leetzow | President | Chicago Stars FC |
+| 2026-11-11 | Jamie Litoff | Executive Director, Partnership Marketing | Chicago Bulls |
+| 2026-11-11 | Calvin Parson | Director, Community Engagement | Chicago Bulls |
+| 2026-11-11 | Michelle Mayer | Senior Director, Marketing & Communications | Special Olympics Illinois |
+| 2026-11-11 | Jennifer Bollinger | Chief Consumer & Brand Officer | Sutter Health |
+| 2026-11-11 | Hanna Madrigan | Director, Connected Partnerships | Strava |
