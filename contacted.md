@@ -84,3 +84,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-11 | Michelle Mayer | Senior Director, Marketing & Communications | Special Olympics Illinois |
 | 2026-11-11 | Jennifer Bollinger | Chief Consumer & Brand Officer | Sutter Health |
 | 2026-11-11 | Hanna Madrigan | Director, Connected Partnerships | Strava |
+| 2026-11-12 | Megan Donovan | VP, Partnership Marketing | Chicago Bulls |
+| 2026-11-12 | Kelsey LeFevour | Manager, Adaptive Sports Programs | Shirley Ryan AbilityLab |
+| 2026-11-12 | Mike Matczak | Director, Performance Marketing | San Francisco 49ers |
+| 2026-11-12 | Stephanie Rogers | Chief Marketing Officer | San Francisco 49ers |
+| 2026-11-12 | Melanie Moore | CEO | Oakland Thrives |
