@@ -89,3 +89,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-12 | Mike Matczak | Director, Performance Marketing | San Francisco 49ers |
 | 2026-11-12 | Stephanie Rogers | Chief Marketing Officer | San Francisco 49ers |
 | 2026-11-12 | Melanie Moore | CEO | Oakland Thrives |
+| 2026-11-13 | Alex Sroka | Director of Marketing | Midwest Orthopaedics at Rush |
+| 2026-11-13 | Lea Jesse | VP & Executive Director | Cubs Charities |
+| 2026-11-13 | Ay'Anna Moody | Executive Director | Warriors Community Foundation |
+| 2026-11-13 | Emily Kraus, MD | Director, Female Athlete Program | Stanford Medicine Children's Health |
+| 2026-11-13 | Paul Moore | Director, Content Strategy & Editorial | Strava |
