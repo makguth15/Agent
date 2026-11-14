@@ -94,3 +94,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-13 | Ay'Anna Moody | Executive Director | Warriors Community Foundation |
 | 2026-11-13 | Emily Kraus, MD | Director, Female Athlete Program | Stanford Medicine Children's Health |
 | 2026-11-13 | Paul Moore | Director, Content Strategy & Editorial | Strava |
+| 2026-11-14 | Carrie Bienkowski | Chief Marketing & Innovation Officer | Athletico Physical Therapy |
+| 2026-11-14 | Carol A. Czaplicki | VP, Marketing | Athletico Physical Therapy |
+| 2026-11-14 | Awvee Storey | Executive Director, Foundation & Community Initiatives | Chicago Sky |
+| 2026-11-14 | Sue Petersen | Executive Director | Giants Community Fund |
+| 2026-11-14 | Kevin Shea, MD | Chief of Pediatric Orthopedics | Stanford Medicine Children's Health |
