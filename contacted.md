@@ -99,3 +99,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-14 | Awvee Storey | Executive Director, Foundation & Community Initiatives | Chicago Sky |
 | 2026-11-14 | Sue Petersen | Executive Director | Giants Community Fund |
 | 2026-11-14 | Kevin Shea, MD | Chief of Pediatric Orthopedics | Stanford Medicine Children's Health |
+| 2026-11-15 | Mike Downey | Senior Director, Marketing & Promotions | Chicago White Sox |
+| 2026-11-15 | Jay Robinson | Marketing Director | Chicago Sky |
+| 2026-11-15 | Eric Lear | Director, Partnership Marketing & Content | Chicago Sky |
+| 2026-11-15 | Paul Giuliacci | Deputy Director | Giants Community Fund |
+| 2026-11-15 | Carolyn Della Maggiore | Development Director | Giants Community Fund |
