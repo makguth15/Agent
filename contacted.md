@@ -104,3 +104,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-15 | Eric Lear | Director, Partnership Marketing & Content | Chicago Sky |
 | 2026-11-15 | Paul Giuliacci | Deputy Director | Giants Community Fund |
 | 2026-11-15 | Carolyn Della Maggiore | Development Director | Giants Community Fund |
+| 2026-11-16 | Emily Simanskis | Director, Marketing & Content | Chicago Fire FC |
+| 2026-11-16 | Jessica Yavitz | VP, Community Relations & Executive Director, Foundation | Chicago Fire FC |
+| 2026-11-16 | Melissa Garritano | Senior Director, Region D | Special Olympics Illinois |
+| 2026-11-16 | Shannon MacMillan | Director of Youth | Bay FC |
+| 2026-11-16 | Bernard Gutmann | President | Bay FC |
