@@ -109,3 +109,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-16 | Melissa Garritano | Senior Director, Region D | Special Olympics Illinois |
 | 2026-11-16 | Shannon MacMillan | Director of Youth | Bay FC |
 | 2026-11-16 | Bernard Gutmann | President | Bay FC |
+| 2026-11-17 | Christine Giordano | Director, Partnership Marketing | Chicago Fire FC |
+| 2026-11-17 | Megan Reaska | Director, Unified Champion Schools (Chicago) | Special Olympics Illinois |
+| 2026-11-17 | Skylar Slack | Director, Partnership Development | Golden State Valkyries |
+| 2026-11-17 | Tamara Johann Moreno | Associate Athletic Director, Sports Medicine | Stanford Athletics |
+| 2026-11-17 | Geoff Abrams, MD | Director of Sports Medicine | Stanford Athletics |
