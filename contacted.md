@@ -114,3 +114,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-17 | Skylar Slack | Director, Partnership Development | Golden State Valkyries |
 | 2026-11-17 | Tamara Johann Moreno | Associate Athletic Director, Sports Medicine | Stanford Athletics |
 | 2026-11-17 | Geoff Abrams, MD | Director of Sports Medicine | Stanford Athletics |
+| 2026-11-18 | Yanja Batbaatar | Director of Product Marketing | Vizient |
+| 2026-11-18 | JP Stockton | Product Director, Hammer Strength | Life Fitness |
+| 2026-11-18 | Lindsay Eckert | VP, Growth & Product Marketing | 3STEP Sports |
+| 2026-11-18 | Lindsey Belknap | VP, Marketing | Oura |
+| 2026-11-18 | Caitlin Stanley | Senior Product Marketing Manager | Strava |
