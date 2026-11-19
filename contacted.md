@@ -119,3 +119,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-18 | Lindsay Eckert | VP, Growth & Product Marketing | 3STEP Sports |
 | 2026-11-18 | Lindsey Belknap | VP, Marketing | Oura |
 | 2026-11-18 | Caitlin Stanley | Senior Product Marketing Manager | Strava |
+| 2026-11-19 | Hannah Pickering | Director, Product Marketing | HealthEquity |
+| 2026-11-19 | Amy Kuhs | Director of Product Marketing | Murj |
+| 2026-11-19 | Brian Dillman | VP, Global Marketing | Wilson Sporting Goods |
+| 2026-11-19 | Elizabeth Kelly | Director, Product Marketing | Hinge Health |
+| 2026-11-19 | Maddie Kassan | Senior Manager, Product Marketing | Tonal |
