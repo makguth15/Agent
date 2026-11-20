@@ -124,3 +124,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-19 | Brian Dillman | VP, Global Marketing | Wilson Sporting Goods |
 | 2026-11-19 | Elizabeth Kelly | Director, Product Marketing | Hinge Health |
 | 2026-11-19 | Maddie Kassan | Senior Manager, Product Marketing | Tonal |
+| 2026-11-20 | Brett Holts | Global VP, Running Sports Marketing | Nike |
+| 2026-11-20 | Paul Brackey | Senior Director, Sales & Expo | Chicago Event Management |
+| 2026-11-20 | Eileen Hurley | Sponsorship contact | Bank of America Chicago Marathon |
+| 2026-11-20 | Ashley Kechter | Brand President & CEO (from Dec 14) | Athleta |
+| 2026-11-20 | Henrique Saboia | SVP, Growth Product & Marketing | Hinge Health |
