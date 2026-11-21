@@ -129,3 +129,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-20 | Eileen Hurley | Sponsorship contact | Bank of America Chicago Marathon |
 | 2026-11-20 | Ashley Kechter | Brand President & CEO (from Dec 14) | Athleta |
 | 2026-11-20 | Henrique Saboia | SVP, Growth Product & Marketing | Hinge Health |
+| 2026-11-21 | Dave Zimmer | Co-owner | Fleet Feet Chicago |
+| 2026-11-21 | Adam Caldarelli | General Manager | Fleet Feet Chicago |
+| 2026-11-21 | Joey Pointer | CEO | Fleet Feet |
+| 2026-11-21 | Eric Prosnitz | Co-founder & CEO | Sports Basement |
+| 2026-11-21 | Brett Rivers | Co-owner | San Francisco Running Company |
