@@ -134,3 +134,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-21 | Joey Pointer | CEO | Fleet Feet |
 | 2026-11-21 | Eric Prosnitz | Co-founder & CEO | Sports Basement |
 | 2026-11-21 | Brett Rivers | Co-owner | San Francisco Running Company |
+| 2026-11-22 | Kyra Marcano | Executive Director | Chicago Run |
+| 2026-11-22 | Allison Yates | Founder | Read & Run Chicago |
+| 2026-11-22 | Vanessa Righeimer | Founder | Out There Run Club |
+| 2026-11-22 | Vivek Gowri | Owner | San Francisco Running Company |
+| 2026-11-22 | Katie Douglas | Founder | Running Wylder |
