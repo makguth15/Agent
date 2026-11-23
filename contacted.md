@@ -139,3 +139,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-22 | Vanessa Righeimer | Founder | Out There Run Club |
 | 2026-11-22 | Vivek Gowri | Owner | San Francisco Running Company |
 | 2026-11-22 | Katie Douglas | Founder | Running Wylder |
+| 2026-11-23 | Elizabeth Engel | Executive Director | UCSF Health Converge |
+| 2026-11-23 | Mira El-Katcha | Acute Rehabilitation Manager | CPMC / Sutter Health |
+| 2026-11-23 | Andy Abramson | Head of Product | Google Health |
+| 2026-11-23 | Kevin Lilly | Co-Founder | BÜNDA Fitness |
+| 2026-11-23 | Craig Culp | Executive Director | Northern Suburban Special Recreation Association |
