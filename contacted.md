@@ -144,3 +144,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-23 | Andy Abramson | Head of Product | Google Health |
 | 2026-11-23 | Kevin Lilly | Co-Founder | BÜNDA Fitness |
 | 2026-11-23 | Craig Culp | Executive Director | Northern Suburban Special Recreation Association |
+| 2026-11-24 | Nick Hurley | COO / Operating Partner | Fleet Feet Chicago |
+| 2026-11-24 | Ian Gonzalez | Chicago Store Lead | Bandit Running |
+| 2026-11-24 | Eleni Linos | Director | Stanford Center for Digital Health |
+| 2026-11-24 | Akash Borde | Founder | Muni Run Club |
+| 2026-11-24 | Mari Sullivan | Founder | That Girl Run Club |
