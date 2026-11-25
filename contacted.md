@@ -149,3 +149,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-24 | Eleni Linos | Director | Stanford Center for Digital Health |
 | 2026-11-24 | Akash Borde | Founder | Muni Run Club |
 | 2026-11-24 | Mari Sullivan | Founder | That Girl Run Club |
+| 2026-11-25 | Sarah Madland | General Manager | SF Recreation and Park Department |
+| 2026-11-25 | Aimee Good | Executive Director | Environmental Traveling Companions |
+| 2026-11-25 | Issa Okamoto | Co-Founder | Zoomies Run Club |
+| 2026-11-25 | Maya Carducci | Co-Founder | Chicago Run Collective |
+| 2026-11-25 | Joabe Barbosa | Runner / Organizer | Every Chicago Block project |
