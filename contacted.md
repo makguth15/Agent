@@ -154,3 +154,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-25 | Issa Okamoto | Co-Founder | Zoomies Run Club |
 | 2026-11-25 | Maya Carducci | Co-Founder | Chicago Run Collective |
 | 2026-11-25 | Joabe Barbosa | Runner / Organizer | Every Chicago Block project |
+| 2026-11-26 | Josh Mohr | SVP of Marketing | GU Energy Labs |
+| 2026-11-26 | Magda Boulet | President | GU Energy Labs |
+| 2026-11-26 | Jill Abbott | VP Marketing Strategy & Innovation | Vital Proteins |
+| 2026-11-26 | Eileen Flaherty-Yao | Senior Director, Brand Marketing | RXBAR / Kellanova |
+| 2026-11-26 | Matt Pahnke | Scientist | Gatorade Sports Science Institute |
