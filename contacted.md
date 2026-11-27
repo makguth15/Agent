@@ -159,3 +159,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-26 | Jill Abbott | VP Marketing Strategy & Innovation | Vital Proteins |
 | 2026-11-26 | Eileen Flaherty-Yao | Senior Director, Brand Marketing | RXBAR / Kellanova |
 | 2026-11-26 | Matt Pahnke | Scientist | Gatorade Sports Science Institute |
+| 2026-11-27 | Tara Piper | SVP of Marketing | Olipop |
+| 2026-11-27 | Chelsea Johns | Marketing Director | Hint |
+| 2026-11-27 | Joe Pellingra | Senior Director, CLIF & LUNA | Mondelēz |
+| 2026-11-27 | Marika Cackett | Senior Director, Marketing & PR | Fitness Formula Clubs |
+| 2026-11-27 | Jeff Schoenfield | Director of Innovation | Glanbia Performance Nutrition |
