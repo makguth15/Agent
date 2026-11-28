@@ -164,3 +164,8 @@ Don't suggest these people again. Add a "Reached out" note after a row if you co
 | 2026-11-27 | Joe Pellingra | Senior Director, CLIF & LUNA | Mondelēz |
 | 2026-11-27 | Marika Cackett | Senior Director, Marketing & PR | Fitness Formula Clubs |
 | 2026-11-27 | Jeff Schoenfield | Director of Innovation | Glanbia Performance Nutrition |
+| 2026-11-28 | Tim Holley | Chief Product Officer | MyFitnessPal |
+| 2026-11-28 | Allison Cullman | SVP of Marketing | Hint |
+| 2026-11-28 | Stefan Wyman | Director of Sports Marketing, Road Racing | SRAM |
+| 2026-11-28 | Derek Miller | VP of Communications | Lifeway Foods |
+| 2026-11-28 | Tom Schuler | Managing Member / Co-Founder | Chicago Grit |
